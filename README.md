@@ -1,4 +1,4 @@
-# CapstoneNajib
+# CapstoneNajib (Work in Progress)
 
 # Ideas for project
 1. Travelog app
