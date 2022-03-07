@@ -6,5 +6,7 @@
 3. Clinic Management Application
 
 ## User Stories
-As [a user persona], I want [to perform this action] so that [I can accomplish this goal].”
+1. As a customer I would like to add items to my cart so I can pay for all my items at one time.
+2. As a customer I want to buy products and see realted items as well so I can buy simmlailr products.
+3. As a customer I would like to sort by lowest and cheapest so I can buy the cheapest products.
 
